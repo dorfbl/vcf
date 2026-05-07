@@ -1,0 +1,27 @@
+# VCF VKS Diagrams - LucidChart
+
+Broadcom's official diagramming tool is LucidCharts.
+
+The following link(s) will guide you to source diagrams that support the Engagement Delivery Material in this folder. Diagrams for other components of the VMware Cloud Foundation (VCF) stack are available in other component folders.
+
+Please see the Start Here tab in the diagrams linked below for additional information about their usage.
+
+---
+
+## Diagram Links
+
+- **VCF Blueprints**: https://lucid.app/lucidchart/editNew/9e3e77f3-4c26-4dee-aa97-89895579b436/view
+
+- **VCF Operations**: https://lucid.app/lucidchart/editNew/dfd403e9-1794-4432-b366-a481256a9fa3/view
+
+- **VCF Operations for Logs**: https://lucid.app/lucidchart/editNew/885d4fd0-9847-4d72-a389-ace6d10e846b/view
+
+- **VCF Automation**: https://lucid.app/lucidchart/editNew/3fc7fcc4-87de-47c2-b2a3-21494b1e5727/view
+
+- **Workload Domain Models**: https://lucid.app/lucidchart/editNew/e700e135-059e-42f8-9aa3-c21bd6ab2248/view
+
+- **NSX Workload Networking Detailed Design**: https://lucid.app/lucidchart/editNew/93302f2e-6951-439e-aa91-9b83805f57f6/view 
+
+- **VCF Single Sign-On**: https://lucid.app/lucidchart/editNew/42b8544f-a8a5-459b-835b-e18f8e3e1bef/view
+
+- **Supervisor Models**: https://lucid.app/lucidchart/editNew/9c205ad5-9047-4a05-809d-e7c6151a7f79/view
